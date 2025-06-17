@@ -6,5 +6,9 @@ README.md
 .env
 .nyc_output
 coverage
+<<<<<<< HEAD
 .DS_Store
 *.log
+=======
+.vscode
+>>>>>>> deb357456b2658dd47b782c694bcae5ebeda08fb

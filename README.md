@@ -1,6 +1,6 @@
 # Trabalho Ravache - Node.js com Docker
 
-Este projeto é uma aplicação Node.js simples que demonstra o uso de containers Docker e CI/CD com GitHub Actions, desenvolvido para a matéria de "Desenvolvimento com DevOps: Gerenciamento de containers".
+Este projeto é uma aplicação Node.js simples que demonstra o uso de containers Docker e CI/CD com GitHub Actions, desenvolvido para a matéria de "Desenvolvimento com DevOps: Gerenciamento de containers"!
 
 ## 📋 Descrição
 
